@@ -6,6 +6,10 @@
     "name": "John Leider",
     "email": "john@vuetifyjs.com"
   },
+  "jsdelivr": "dist/vuetify.js",
+  "license": "MIT",
+  "main": "dist/vuetify.js",
+  "module": "dist/vuetify.js",
   "private": true,
   "workspaces": [ "packages/*" ],
   "husky": {
