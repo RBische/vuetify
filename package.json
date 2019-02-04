@@ -1,4 +1,11 @@
 {
+  "name": "vuetify",
+  "description": "Vue.js 2 Semantic Component Framework",
+  "version": "1.4.4",
+  "author": {
+    "name": "John Leider",
+    "email": "john@vuetifyjs.com"
+  },
   "private": true,
   "workspaces": [ "packages/*" ],
   "husky": {
